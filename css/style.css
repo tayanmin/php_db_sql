@@ -1,0 +1,33 @@
+
+.header{
+  height: 150px;
+  width: 1080px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-left: 100px; */
+
+}
+.navbar-brand{
+  display: flex;
+  justify-content: flex-end;
+}
+
+#main-container{
+  display: flex;
+  justify-content: center;
+}
+
+.nyuryoku{
+  line-height: 1.75rem;
+  width: 700px;
+}
+
+
+
+.container{
+margin-top: 32px;
+display: flex;
+justify-content: flex-start;
+margin-left: 100px;
+}
